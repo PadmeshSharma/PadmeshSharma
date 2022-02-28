@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Padmesh Sharma</h1>
-<h3 align="center">🦋💫</h3>
+<h3 align="center">Currently learning and exploring things🦋💫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmeshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="padmeshsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padmeshsharma" alt="padmeshsharma" /></a> </p>
-
 - 🌱 I’m currently learning **C language**
 
-- 📫 How to reach me **padmesh2224gmail.com**
+- 📫 Reach me at **padmesh2224gmail.com**
+ 
+- 👩🏻 Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
