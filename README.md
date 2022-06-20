@@ -31,6 +31,8 @@
 <a href = "mailto:padmesh2224@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+ [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pranayguptaa)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
 </div> 
 
 ## 👨🏻‍💻 Coding Profiles
