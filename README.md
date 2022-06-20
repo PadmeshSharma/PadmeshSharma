@@ -15,6 +15,8 @@
 
 - 📫 Reach me via **padmesh2224gmail.com**
 
+[![Padmesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PadmeshSharma&theme=xcode)](https://github.com/PadmeshSharma)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/padmeshsharma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padmeshsharma18" height="30" width="40" /></a>
