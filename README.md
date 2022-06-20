@@ -57,13 +57,16 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=tokyonight" />
 </p>
 
+
 <!--START_SECTION:waka-->
 
 ```text
 From: 19 May 2022 - To: 18 June 2022
 
 Other        81 hrs 33 mins  ██████████████████████▓░░   91.06 %
+```
 
+<!--END_SECTION:waka-->
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{padmeshsharma}/count.svg)
