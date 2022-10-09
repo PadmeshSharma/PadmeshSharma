@@ -11,6 +11,8 @@
 
 - 👨‍💻 Tech enthusiast with great interest in **Competitive coding and Web Development.**
 
+- ⚡ Fun fact: My friends often call me "Mathematician".
+
 - 👩🏻 Pronouns- **She / Her**
 
 - 📫 Reach me via **padmesh2224gmail.com**
