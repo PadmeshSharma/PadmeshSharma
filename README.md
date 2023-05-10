@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmeshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="padmeshsharma" /> </p>
 
-- 🎓 I’m a CSE Sophomore pursuing B.Tech. from **Banasthali Vidyapith.**
+- 🎓 I’m a CSE undergraduate junior student pursuing B.Tech. from **Banasthali Vidyapith.**
 
 - 👯 I’m looking to collaborate on **Web projects.**
 
