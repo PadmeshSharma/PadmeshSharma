@@ -72,10 +72,8 @@
 </td>
 </tr>
  <tr>
-   <h2 align='left'><i><a href="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">GitHub Stats </i></h2>
+   <h2 align='left'><i><a href="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">GitHub Stats </i></h2>
  <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">
-  <h2 align='right'><i><a href="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%">Languages over time </i></h2>
- <img src="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%"</a>
    </tr>
 </table>
 <p align="center">
