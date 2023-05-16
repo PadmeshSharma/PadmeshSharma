@@ -28,7 +28,7 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
  <h2 align='left'><i><a href="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">GitHub Stats </i></h2>
- <a>[![PadmeshSharma's GitHub | Stats]]<img src=""></a>
+ <a>[![PadmeshSharma's GitHub | Stats]]<img src="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%"></a>
  <a>[![PadmeshSharma's GitHub | Languages Over Time]<img src="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%"</a>
 </p>
 
