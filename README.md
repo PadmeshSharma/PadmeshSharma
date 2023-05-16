@@ -28,6 +28,7 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
  <a>[![PadmeshSharma's GitHub | Stats](https://stats.quine.sh/PadmeshSharma/github?theme=light)](https://quine.sh)</a>
+ <a>[![PadmeshSharma's GitHub | Languages Over Time](https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark)](https://quine.sh)</a>
 </p>
 
 </br>
