@@ -27,7 +27,7 @@
 <a href="https://github.com/PadmeshSharma/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
-
+ <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%" height="30%></a>
 </p>
 
 </br>
@@ -71,14 +71,12 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=padmeshsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
- <tr>
-   
+</table> 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=tokyonight" height="30%" />
- <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%" height="30%>
+
 </p>
-  </tr>
-</table>
+
 
 
 **Visitors Count**  
