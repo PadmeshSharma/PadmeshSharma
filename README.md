@@ -73,11 +73,12 @@
 </tr>
  <tr>
    <a href="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">
- <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">
+ 
    </tr>
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=tokyonight" />
+ <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">
 </p>
 
 
