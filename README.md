@@ -27,6 +27,7 @@
 <a href="https://github.com/PadmeshSharma/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
+ <a>[![PadmeshSharma's GitHub | Stats](https://stats.quine.sh/PadmeshSharma/github?theme=light)](https://quine.sh)</a>
 </p>
 
 </br>
