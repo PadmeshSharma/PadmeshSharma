@@ -72,8 +72,8 @@
 </td>
 </tr>
  <tr>
-   <h2 align='left'><i><a href="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">GitHub Stats </i></h2>
- <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">
+   <a href="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">
+ <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=dark" width="30%">
    </tr>
 </table>
 <p align="center">
