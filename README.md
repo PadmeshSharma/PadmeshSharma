@@ -27,10 +27,7 @@
 <a href="https://github.com/PadmeshSharma/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
- <h2 align='left'><i><a href="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">GitHub Stats </i></h2>
- <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">
-  <h2 align='right'><i><a href="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%">Languages over time </i></h2>
- <img src="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%"</a>
+
 </p>
 
 </br>
@@ -74,6 +71,12 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=padmeshsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
+ <tr>
+   <h2 align='left'><i><a href="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">GitHub Stats </i></h2>
+ <a><img src="https://stats.quine.sh/PadmeshSharma/github?theme=light" width="30%">
+  <h2 align='right'><i><a href="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%">Languages over time </i></h2>
+ <img src="https://stats.quine.sh/PadmeshSharma/languages-over-time?theme=dark" width="30%"</a>
+   </tr>
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=tokyonight" />
