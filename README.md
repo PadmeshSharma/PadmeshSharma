@@ -47,7 +47,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Padmesh16/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/padmesh2224)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/padmeshsharma)
-
+<a href="https://www.codingninjas.com/codestudio/profile/Padmesh22" target="CodeSudio">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
