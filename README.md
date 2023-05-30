@@ -1,3 +1,5 @@
+
+<p align="center">><img width="80%" alt="Hello, I'm Padmesh. I do open source!" src="./assets/gh-readme-header.png" /></p>
 <h1 align="center">Hey Everyone 🙋🏻‍♀️, I'm Padmesh Sharma</h1>
 <h3 align="center">Currently learning and exploring things🦋💫</h3>
 
