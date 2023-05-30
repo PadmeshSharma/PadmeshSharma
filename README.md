@@ -64,6 +64,10 @@
 
  <h2 align="center"> 📈 Github Stats </h2>
 
+ 
+| <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=padmeshsharma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Padmesh's github stats" /></a> | <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmeshsharma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+ 
 <table>
 <tr>
 <td>
