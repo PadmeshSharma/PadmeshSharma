@@ -65,17 +65,10 @@
  <h2 align="center"> 📈 Github Stats </h2>
 
  
-| <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=padmeshsharma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Padmesh's github stats" /></a> | <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmeshsharma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=padmeshsharma&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Padmesh's github stats" /></a> | <a href="https://github.com/padmeshsharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmeshsharma&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
  
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=padmeshsharma&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=padmeshsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table> 
+
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=tokyonight" height="30%" />
 
