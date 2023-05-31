@@ -77,7 +77,7 @@
 </p>
 
 
-
+<div align = "center">
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{padmeshsharma}/count.svg)
 
