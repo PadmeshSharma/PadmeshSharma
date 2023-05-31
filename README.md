@@ -17,7 +17,7 @@
 💻 Participated in different Open Source Programs.<br>
 
 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:
-✦ I have been selected as a contributor in many open source programs such as:
+✦ I have been selected as a contributor in many open source programs such as:<br>
  •GirlScript Summer Of Code(GSSOC) conducted every summer by the Girlscript Foundation,
  •Timechain Summer of Code (TSOC) organized by Hack2skill,
  •Social Summer of Code(SSOC) organized By Social.
