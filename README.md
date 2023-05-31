@@ -55,7 +55,7 @@
 |:----------------------------------:|----------------------|
 |  [**Pravendra Tyagi**](https://www.linkedin.com/in/dr-pravendra-tyagi-b2309053/) _(Assistant Professor at Banasthali Vidyapith)_  |  I know Padmesh sharma, she is my student and always passionate to learn new ideas|
 |     [**Mansi gupta**](https://www.linkedin.com/in/mansi-gupta-963b09230/) _(Team Member)_     | It was fantastic to work together with Padmesh, She Brings the skill and knowledge needed to explain the issues thoroughly, and also formulate potential solutions quickly. My team and I looked forward to the regular in-person meetings where we always felt very productive. Thanks to Padmesh's flexibility and ability to address any concern that came up. In short, Padmesh is a delight and an incredible asset to anyone lucky enough to work with her.|
-| [**Mitali Agrawal**](https://www.linkedin.com/in/aashish-medhe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BX9j20vjZT4aJ8PADJxLLLw%3D%3D) _(Team Member)_ | .|
+| [**Mitali Agrawal**](https://www.linkedin.com/in/mitali-agarwal-013b4523a/) _(Team Member)_ | .|
 | [**Poorvi sharma**](https://www.linkedin.com/in/poorvi-sharma-5a9253252/)_(Team Member)_ | . |
 | [**Pakhi Chaturvedi**](https://www.linkedin.com/in/pakhi-chaturvedi-258063227/)_(Team Member)_ | . |
 
