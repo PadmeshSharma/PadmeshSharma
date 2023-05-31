@@ -76,10 +76,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padmeshsharma&theme=buefy" height="30%" />
 
 </p>
-
-### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://linktr.ee/padmeshsharma"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
-
  <div align = "center">
+ 
+ ### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://linktr.ee/padmeshsharma"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
+
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{padmeshsharma}/count.svg)
