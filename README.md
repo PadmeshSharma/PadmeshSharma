@@ -53,11 +53,11 @@
 
 |              **Name**              | **Thoughts on me!** |
 |:----------------------------------:|----------------------|
-|  [**Dr.Pravendra Tyagi**](https://www.linkedin.com/in/dr-pravendra-tyagi-b2309053/) _(Assistant Professor at Banasthali Vidyapith)_  |  I know Padmesh sharma, she is my student and always passionate to learn new ideas|
-|  [**Mansi gupta**](https://www.linkedin.com/in/mansi-gupta-963b09230/) _(Team Member)_     | It was fantastic to work together with Padmesh, She Brings the skill and knowledge needed to explain the issues thoroughly, and also formulate potential solutions quickly. My team and I looked forward to the regular in-person meetings where we always felt very productive. Thanks to Padmesh's flexibility and ability to address any concern that came up. In short, Padmesh is a delight and an incredible asset to anyone lucky enough to work with her.|
+|  [**Dr. Pravendra Tyagi**](https://www.linkedin.com/in/dr-pravendra-tyagi-b2309053/) _(Assistant Professor at Banasthali Vidyapith)_  |  I know Padmesh sharma, she is my student and always passionate to learn new ideas|
+|  [**Mansi Gupta**](https://www.linkedin.com/in/mansi-gupta-963b09230/) _(Team Member)_     | It was fantastic to work together with Padmesh, She Brings the skill and knowledge needed to explain the issues thoroughly, and also formulate potential solutions quickly. My team and I looked forward to the regular in-person meetings where we always felt very productive. Thanks to Padmesh's flexibility and ability to address any concern that came up. In short, Padmesh is a delight and an incredible asset to anyone lucky enough to work with her.|
 | [**Mitali Agrawal**](https://www.linkedin.com/in/mitali-agarwal-013b4523a/) _(Team Member)_ | I’ve had the pleasure of working with Padmesh for around a week, during which we participated in LeanIn Hackathon and were in 𝗧𝗢𝗣 𝟮𝟬 𝗧𝗲𝗮𝗺𝘀 𝗼𝘂𝘁 𝗼𝗳 𝟴𝟴 𝗧𝗲𝗮𝗺𝘀. Above all, I was impressed with Padmesh’s confidence, and ability to communicate well with others and motivate them. And, of course, her skills and her interest in technology. Padmesh would be a true asset to any team and comes with my heartfelt recommendation.|
 | [**Pakhi Chaturvedi**](https://www.linkedin.com/in/pakhi-chaturvedi-258063227/)_(Team Member)_ | . |
-| [**Poorvi sharma**](https://www.linkedin.com/in/poorvi-sharma-5a9253252/)_(Team Member)_ | . |
+| [**Poorvi Sharma**](https://www.linkedin.com/in/poorvi-sharma-5a9253252/)_(Team Member)_ | . |
 
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
