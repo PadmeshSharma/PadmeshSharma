@@ -6,28 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmeshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="padmeshsharma" /> </p>
 
-- 🎓 I’m a CSE undergraduate junior student pursuing B.Tech. from **Banasthali Vidyapith.**
+🎓 I’m a CSE undergraduate junior student pursuing B.Tech. from **Banasthali Vidyapith.**
 
-- 👯 I’m looking to collaborate on **Web projects.**
+👯 I’m looking to collaborate on **Web projects.**
 
-- 👨‍💻 Tech enthusiast with great interest in **Competitive coding and Web Development.**
+👨‍💻 Tech enthusiast with great interest in **Competitive coding and Web Development.**
 
-- ⚡ Fun fact: My friends often call me "Mathematician".
+⚡ Fun fact: My friends often call me **"Mathematician"**.
 
-
-:star:  Looking forward to have a successful professional career as a **Software Engineer** <br>
-:nerd_face: Currently working on **Full Stack Development!** <br>
-:snowflake: Pursuing B.Tech in **Computer Science Engineering** from **University of Engineering & Management, Kolkata** <br>
-🚀 Love to talk about **Research and Innovation!** <br>
-:muscle: Passionate about **Competitive Coding** <br>
-- 6 :star: at HackerRank <br>
-- 5 :star: at CodeChef <br>
-- #3 Global Rank at Coding Blocks
-- 2 :star: at LeetCode
-
-🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br>
-💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
-**In short:beer:, I love to work on new technologies. :heart:** 
+💻 Participated in different Open Source Programs<br>
+https://github.com/PadmeshSharma/PadmeshSharma/blob/main/Tsoc.jpg
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
