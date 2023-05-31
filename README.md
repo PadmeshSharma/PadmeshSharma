@@ -34,6 +34,48 @@
  
 </br>
  
+  ## Open Source Organization 🥇
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/PadmeshSharma) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/PadmeshSharma)
+
+|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Participated In |
+|-------------|-------------------|---|---|---|---|:-:|
+| [**Menses **](https://github.com/PadmeshSharma/Menses-Project) | [![GitHub Stars](https://img.shields.io/github/stars/PadmeshSharma/Menses-Project?style=flat-square&labelColor=343b41)](https://github.com/PadmeshSharma/Menses-Project/stars) | [![GitHub Forks](https://img.shields.io/github/forks/PadmeshSharma/Menses-Project?style=flat-square&labelColor=343b41)](https://github.com/PadmeshSharma/Menses-Project/forks) | [![GitHub Issues](https://img.shields.io/github/issues/PadmeshSharma/Menses-Project?style=flat-square)](https://github.com/PadmeshSharma/Menses-Project/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/PadmeshSharma/Menses-Project?style=flat&logo=github)](https://github.com/PadmeshSharma/Menses-Project/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/PadmeshSharma/Menses-Project?style=flat&color=critical&logo=github)](https://github.com/PadmeshSharma/Menses-Project/pulls?q=is%3Apr+is%3Aclosed) | [**LeanIn Hackathon**](https://leanin.org/circles/leanin-banasthali), [**Smart-O-Hack**](https://www.reskilll.com/hack/smartohack) |
+| [**Vasas**](https://github.com/PadmeshSharma/Vasas-Project) | [![GitHub Stars](https://img.shields.io/github/stars/PadmeshSharma/Vasas-Project?style=flat-square&labelColor=343b41)](https://github.com/PadmeshSharma/Vasas-Project/stars) | [![GitHub Forks](https://img.shields.io/github/forks/PadmeshSharma/Vasas-Project?style=flat-square&labelColor=343b41)](https://github.com/PadmeshSharma/Vasas-Project/forks) | [![GitHub Issues](https://img.shields.io/github/issues/PadmeshSharma/Vasas-Project?style=flat-square)](https://github.com/PadmeshSharma/Vasas-Project/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/PadmeshSharma/Vasas-Project?style=flat&logo=github)](https://github.com/PadmeshSharma/Vasas-Project/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/PadmeshSharma/Vasas-Project?style=flat&color=critical&logo=github)](https://github.com/PadmeshSharma/Vasas-Project/pulls?q=is%3Apr+is%3Aclosed) | [**WIEHACK 4.0**](https://portal.bvpieee.in/)|
+
+ 
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+/*## My Blogs:seedling:
+| **No.** | **Topic** |
+|:---:|---|
+|01|[**Cognizant Digital Nurture 2.0 Program, 2022** - Complete Guide & Experience](https://abhisheks008.hashnode.dev/cognizant-digital-nurture-20-program-2022-complete-guide-experience)|
+|02|[**Capgemini Exceller Program** - On-Canpus Drive Experience & Guidance](https://abhisheks008.hashnode.dev/capgemini-exceller-program-on-canpus-drive-experience-guidance)|
+|03|[**Mindtree On-Campus Drive** - Complete Guidance and Experience](https://abhisheks008.hashnode.dev/mindtree-on-campus-drive-complete-guidance-and-experience)|
+|04|[**Muvin SDE [Freshers]** - Complete Guidance and Interview Experience](https://abhisheks008.hashnode.dev/muvin-sde-freshers-complete-guidance-and-interview-experience)|
+|05|[**Cognizant Phase II Campus Hiring - Gen C & Gen C Elevate**](https://abhisheks008.hashnode.dev/cognizant-phase-ii-campus-hiring-gen-c-gen-c-elevate)|
+*/
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
+<div align = 'center'>
+<h2> Testimonials 📝 </h2></div>
+
+|              **Name**              | **Thoughts on me!** |
+|:----------------------------------:|----------------------|
+|  [**Pravendra Tyagi**](https://www.linkedin.com/in/dr-pravendra-tyagi-b2309053/) _(Assistant Professor at Banasthali Vidyapith)_  |  I know Padmesh sharma, she is my student and always passionate to learn new ideas|
+|     [**Mansi gupta**](https://www.linkedin.com/in/mansi-gupta-963b09230/) _(Team Member)_     | It was fantastic to work together with Padmesh, She Brings the skill and knowledge needed to explain the issues thoroughly, and also formulate potential solutions quickly. My team and I looked forward to the regular in-person meetings where we always felt very productive 
+thanks to Padmesh's flexibility and ability to address any concern that came up. In short, Padmesh is a delight and an incredible asset 
+to anyone lucky enough to work with her.|
+| [**Mitali Agrawal**](https://www.linkedin.com/in/aashish-medhe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BX9j20vjZT4aJ8PADJxLLLw%3D%3D) _(Team Member)_ | .|
+| [**Poorvi sharma**](https://www.linkedin.com/in/poorvi-sharma-5a9253252/)_(Team Member)_ | . |
+| [**Pakhi Chaturvedi**](https://www.linkedin.com/in/pakhi-chaturvedi-258063227/)_(Team Member)_ | . |
+
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
 
 ## Connect with me  
   
