@@ -15,7 +15,6 @@
 ⚡ Fun fact: My friends often call me **"Mathematician"**.
 
 💻 Participated in different Open Source Programs<br>
-https://github.com/PadmeshSharma/PadmeshSharma/blob/main/Tsoc.jpg
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
