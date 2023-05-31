@@ -27,9 +27,12 @@
 
 🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br>
 💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
-**In short:beer:, I love to work on new technologies. :heart:** <br>
+**In short:beer:, I love to work on new technologies. :heart:** 
 
-</br>
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
+<a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/PadmeshSharma/PadmeshSharma/blob/main/Ssoc.jpg" height=60px /></a>
+<a href="https://tsoc.dev/"><img src="https://github.com/PadmeshSharma/PadmeshSharma/blob/main/Tsoc.jpg" height=60px /></a>
 
  <h2 align='center'><i><a href="https://github.com/PadmeshSharma/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
