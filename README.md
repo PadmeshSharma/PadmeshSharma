@@ -16,15 +16,15 @@
 
 💻 Participated in different Open Source Programs.<br>
 
-𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:
+𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:<br>
 ✦ I have been selected as a contributor in many open source programs such as:<br>
- •GirlScript Summer Of Code(GSSOC) conducted every summer by the Girlscript Foundation,
- •Timechain Summer of Code (TSOC) organized by Hack2skill,
- •Social Summer of Code(SSOC) organized By Social.
-✦ I am also the Web Development Intern this summer at OctaNet, at LetsGrowMore (LGM) Community under the Virtual Internship Program(VIP), and at The Sparks Foundation(TSF) Community in its Graduate Rotational Internship Program (GRIP) as well. 
-✦ I also participated in some hackathons:
- •I participated in a hackathon organized by LeanIn BV × LeanIn IGDTUW in Mar’22 in which I worked on a website of Menstrual Cycle Tracker using C++, JavaScript, HTML, CSS, and some more tools and got selected in 𝗧𝗢𝗣 𝟮𝟬 𝗧𝗲𝗮𝗺𝘀 𝗼𝘂𝘁 𝗼𝗳 𝟴𝟴 𝗧𝗲𝗮𝗺𝘀.
- • A 2-day online Smart cities hackathon "Smart-O-Hack" was organized by Maharaja Agrasen Institute of Technology(MAIT) in collaboration with Netaji Subash University of Technology (NSUT) under the flagship of IEEE Smart Cities. Our team got selected in the 𝗧𝗼𝗽 𝟱 teams out of 100+ submissions.
+ •GirlScript Summer Of Code(GSSOC) conducted every summer by the Girlscript Foundation,<br>
+ •Timechain Summer of Code (TSOC) organized by Hack2skill,<br>
+ •Social Summer of Code(SSOC) organized By Social.<br>
+✦ I am also the Web Development Intern this summer at OctaNet, at LetsGrowMore (LGM) Community under the Virtual Internship Program(VIP), and at The Sparks Foundation(TSF) Community in its Graduate Rotational Internship Program (GRIP) as well. <br>
+✦ I also participated in some hackathons:<br>
+ •I participated in a hackathon organized by LeanIn BV × LeanIn IGDTUW in Mar’22 in which I worked on a website of Menstrual Cycle Tracker using C++, JavaScript, HTML, CSS, and some more tools and got selected in 𝗧𝗢𝗣 𝟮𝟬 𝗧𝗲𝗮𝗺𝘀 𝗼𝘂𝘁 𝗼𝗳 𝟴𝟴 𝗧𝗲𝗮𝗺𝘀.<br>
+ • A 2-day online Smart cities hackathon "Smart-O-Hack" was organized by Maharaja Agrasen Institute of Technology(MAIT) in collaboration with Netaji Subash University of Technology (NSUT) under the flagship of IEEE Smart Cities. Our team got selected in the 𝗧𝗼𝗽 𝟱 teams out of 100+ submissions.<br>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
