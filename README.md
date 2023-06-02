@@ -19,7 +19,7 @@
  •GirlScript Summer Of Code(GSSOC) conducted every summer by the Girlscript Foundation,<br>
  •Timechain Summer of Code (TSOC) organized by Hack2skill,<br>
  •Social Summer of Code(SSOC) organized By Social.<br><br>
-✦ I am also the Web Development Intern this summer at OctaNet, at LetsGrowMore (LGM) Community under the Virtual Internship Program(VIP), and at The Sparks Foundation(TSF) Community in its Graduate Rotational Internship Program (GRIP) as well. <br><br>
+✦ I am also the Web Development Intern this summer at OctaNet, at Bharat Intern, LetsGrowMore (LGM) Community under the Virtual Internship Program(VIP), and at The Sparks Foundation(TSF) Community in its Graduate Rotational Internship Program (GRIP) as well. <br><br>
 ✦ I also participated in some hackathons:<br><br>
  •I participated in a hackathon organized by LeanIn BV × LeanIn IGDTUW in Mar’22 in which I worked on a website of Menstrual Cycle Tracker using C++, JavaScript, HTML, CSS, and some more tools and got selected in 𝗧𝗢𝗣 𝟮𝟬 𝗧𝗲𝗮𝗺𝘀 𝗼𝘂𝘁 𝗼𝗳 𝟴𝟴 𝗧𝗲𝗮𝗺𝘀.<br>
  • A 2-day online Smart cities hackathon "Smart-O-Hack" was organized by Maharaja Agrasen Institute of Technology(MAIT) in collaboration with Netaji Subash University of Technology (NSUT) under the flagship of IEEE Smart Cities. Our team got selected in the 𝗧𝗼𝗽 𝟱 teams out of 100+ submissions.<br>
