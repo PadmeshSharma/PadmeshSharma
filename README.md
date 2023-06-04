@@ -123,7 +123,7 @@
 
 
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some of the repositories!
   
   </div>
  
