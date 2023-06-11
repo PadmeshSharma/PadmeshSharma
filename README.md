@@ -100,6 +100,9 @@
  <a href ="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" width="60" height="40" /></a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="40"></a></p>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PadmeshSharma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
  <h2 align="center"> 📈 Github Stats </h2>
 
  
