@@ -15,10 +15,6 @@
 ⚡ Fun fact: My friends often call me **"Mathematician"**.<br>
 
 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:<br><br>
-✦ I have been selected as a contributor in many **open source programs** 💻  such as:<br><br>
- •**GirlScript Summer Of Code(GSSOC)** conducted every summer by the Girlscript Foundation,<br>
- •**Timechain Summer of Code (TSOC)** organized by Hack2skill,<br>
- •**Social Summer of Code(SSOC)** organized By Social.<br><br>
 
 ✦ I have been a Web Development Intern at OctaNet. 
 <br><br>
