@@ -13,8 +13,8 @@
 👨‍💻 Tech enthusiast with great interest in **Competitive coding and Web Development.**
 
 ⚡ Fun fact: My friends often call me **"Mathematician"**.<br>
-
-𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:<br><br>
+<br>
+𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:<br>
 
 ✦ I have been a Web Development Intern at OctaNet. 
 <br><br>
