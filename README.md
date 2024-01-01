@@ -16,7 +16,8 @@
 <br>
 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:<br>
 
-✦ I have been a Web Development Intern at OctaNet. 
+✦  I am **C/C++ mentor** at **Developers Community**.<br><br>
+✦  I have been a Web Development Intern at OctaNet. 
 <br><br>
 ✦ I also participated in some hackathons:<br><br>
  •I participated in the **"Lean In"** hackathon organized by LeanIn BV × LeanIn IGDTUW in March ’22 in which I worked on a website of Menstrual Cycle Tracker using C++, JavaScript, HTML, CSS, and some more tools and got selected in 𝗧𝗢𝗣 𝟮𝟬 𝗧𝗲𝗮𝗺𝘀 𝗼𝘂𝘁 𝗼𝗳 𝟴𝟴 𝗧𝗲𝗮𝗺𝘀.<br>
