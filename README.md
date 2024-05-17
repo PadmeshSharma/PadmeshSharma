@@ -19,8 +19,10 @@
 <br>
 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘𝗦:<br>
 
-✦  I am **C/C++ mentor** at **Developers Community**.<br><br>
-✦  I have been a Web Development Intern at OctaNet. 
+✦  I am **Vice President** at **GirlUp*GirlForGirl**l, driving initiatives for female empowerment and advocacy.<br><br>
+✦  I am **C/C++ mentor** at **Developers Community**, empowering C/C++ developers through mentorship for skill enhancement and community collaboration.<br><br>
+✦  I was selected as one of the **top 50 finalists nationwide** in the **Goldman Sachs Women’s Possibilities Summit: Finance Finale 2023-24**.<br><br>
+✦  I have been **Technical Lead** at **OSCode Banasthali Vidyapith Chapter**, guiding our team toward innovation and organizing tech events such as coding competitions, hackathons, open-source contributions, etc. to foster team collaboration and skill development.
 <br><br>
 ✦ I also participated in some hackathons:<br><br>
  •I participated in the **"Lean In"** hackathon organized by LeanIn BV × LeanIn IGDTUW in March ’22 in which I worked on a website of Menstrual Cycle Tracker using C++, JavaScript, HTML, CSS, and some more tools and got selected in 𝗧𝗢𝗣 𝟮𝟬 𝗧𝗲𝗮𝗺𝘀 𝗼𝘂𝘁 𝗼𝗳 𝟴𝟴 𝗧𝗲𝗮𝗺𝘀.<br>
