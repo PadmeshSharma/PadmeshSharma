@@ -1,8 +1,7 @@
 
 <h1 align="center" color="pink">Hey Everyone 🙋🏻‍♀️, I'm Padmesh Sharma</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=+SDE+Intern+at+BNY+Mellon;Upcoming+SDE+Intern+at+Amazon+;Web+Developer;ML+Enthusiast;Programmer;Public+Speaker" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=CB6BF7&center=true&random=false&width=435&lines=+SDE+Intern+at+BNY+Mellon;Upcoming+SDE+Intern+at+Amazon+;Web+Developer;ML+Enthusiast;Programmer;Public+Speaker" alt="Typing SVG" /></a></p>
  <h3 align="center">Currently learning and exploring things🦋💫</h3>
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
