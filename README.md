@@ -2,7 +2,7 @@
 <h1 align="center" color="pink">Hey Everyone 🙋🏻‍♀️, I'm Padmesh Sharma</h1>
 <br><br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=CB6BF7&random=false&width=551&lines=+SDE+Intern+at+BNY+Mellon;Upcoming+SDE+Intern+at+Amazon+;Web+Developer;ML+Enthusiast;Programmer;Public+Speaker" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=CB6BF7&random=false&width=600&height=100&lines=+SDE+Intern+at+BNY+Mellon;Upcoming+SDE+Intern+at+Amazon+;Web+Developer;ML+Enthusiast;Programmer;Public+Speaker" alt="Typing SVG" /></a></p>
 
  <h3 align="center">Currently learning and exploring things🦋💫</h3>
 
