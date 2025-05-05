@@ -1,7 +1,7 @@
 
 <h1 align="center" color="pink">Hey Everyone 🙋🏻‍♀️, I'm Padmesh Sharma</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=CB6BF7&random=false&width=600&height=100&lines=+Ex-SDE+Intern+at+Amazon+;Ex-SDE+Intern+at+BNY+Mellon;Web+Developer;ML+Enthusiast;Programmer;Public+Speaker" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=CB6BF7&random=false&width=600&height=100&lines=+Software+Engineer;Ex-SDE+Intern+at+Amazon+;Ex-SDE+Intern+at+BNY+Mellon;Web+Developer;ML+Enthusiast;Programmer;Public+Speaker" alt="Typing SVG" /></a></p>
 
  <h3 align="center">Currently learning and exploring things🦋💫</h3>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmeshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="padmeshsharma" /> </p>
 
-🎓 I’m a CSE undergraduate senior student pursuing B.Tech. from **Banasthali Vidyapith.**
+🎓 🧑🏻‍🎓 Graduated with a B.Tech. in Computer Science & Engineering from **Banasthali Vidyapith**, Jaipur.
 
 👯 I’m looking to collaborate on **Web projects.**
 
