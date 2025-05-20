@@ -128,5 +128,3 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
 <div align="center">
   <h3>Show some ❤️ by starring my repositories!</h3>
 </div>
- ### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://linktr.ee/padmeshsharma"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
- 
