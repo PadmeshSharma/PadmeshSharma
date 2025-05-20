@@ -14,8 +14,6 @@
   </a>
 </div>
 
-<img align="right" alt="Padmesh working" width="300" src=" https://github.com/PadmeshSharma/PadmeshSharma/blob/7c5e6e5ede7b27ce4c126c54af6d7696dfb3ee1b/Photo.png">
-
 ## 🚀 About Me
 
 🎓 B.Tech in Computer Science from **Banasthali Vidyapith** (2021-2025)  
@@ -25,6 +23,8 @@
 📌 Mathura, Uttar Pradesh, India  
 
 ## 💼 Professional Experience
+
+<img align="right" alt="Padmesh working" width="300" src="https://raw.githubusercontent.com/PadmeshSharma/PadmeshSharma/main/Photo.png">
 
 ### **Amazon** - SDE Intern (Jul-Dec 2024)
 - Automated Amazon Hub delivery configuration management
