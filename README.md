@@ -24,14 +24,6 @@
 👩‍💻 **SheCodes Foundation Scholar** (Web Development)  
 📌 Mathura, Uttar Pradesh, India  
 
-**Top Skills:**  
-• CSS • Mentorship • Recruitment • Public Speaking  
-
-**Languages:**  
-• English (Professional) • Hindi (Native) • Sanskrit (Basic)  
-
----
-
 ## 💼 Professional Experience
 
 ### **Amazon** - SDE Intern (Jul-Dec 2024)
@@ -44,9 +36,10 @@
 - Managed back pressure on UI for efficient data handling
 - Tech: Angular (UI), Spring WebFlux (Backend)
 
-### **topmate.io** - Mentor (Jan 2025-Present)
+### **Topmate.io** - Mentor (Jan 2025-Present)
 - 1:1 mentorship on interview prep and resume building
 - Conduct mock interviews with actionable feedback
+- 📅 [Book an appointment](https://topmate.io/padmesh_sharma)
 
 ---
 
@@ -56,16 +49,15 @@
 Leading initiatives for girls' education, rights, and leadership development
 
 ### **Mayukh Banasthali** - Technical Core Team (Jan-Mar 2025)
-Organized 25+ technical/non-technical events including:
-- Hack The Horizon (Algobyte)
-- Drone Simulation (Hovermania)
-- Game development competitions
+Organized 25+ technical/non-technical events in National TechFest Mayukh
 
 ### **Developers Community** 
 - **Talent Acquisition Coordinator** (Dec 2024-Feb 2025)
 - **DSA Mentor** (Jun-Dec 2024)
 - **C/C++ Mentor** (Jan-Jun 2024)
 
+### **OSCode - Banasthali Vidyapith Chapter** - Technical Lead  
+- Organized coding events, hackathons & open-source drives
 ---
 
 ## 🏅 Achievements
@@ -73,8 +65,9 @@ Organized 25+ technical/non-technical events including:
 - **1st Position**: Talent Search Exam (School Level)
 - **Silver Medalist**: Cyber Quiz Competition
 - **Top 10**: GiriScript Treasure Hunt
-- **Selected**: LeanIn Hackathon (Menstrual Cycle Tracker project)
+- **Selected in Top 20**: LeanIn Hackathon (Menstrual Cycle Tracker project)
 - **Finalist**: Smart-O-Hack Smart Cities Hackathon
+- **1st Position & College Topper**: Monthly College Leaderboard by CodeStudio
 
 ---
 
@@ -92,7 +85,11 @@ Organized 25+ technical/non-technical events including:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-**Tools:**  
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Tools:**   
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -108,7 +105,18 @@ Organized 25+ technical/non-technical events including:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PadmeshSharma&theme=radical" alt="GitHub Streak"/>
 </div>
+---
 
+
+<h2 align='center'><i><a href="https://github.com/PadmeshSharma/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/PadmeshSharma/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=PadmeshSharma&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/PadmeshSharma/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 ---
 
 ## 📫 Let's Connect
@@ -117,9 +125,15 @@ Organized 25+ technical/non-technical events including:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmesh2224@gmail.com)
 [![Topmate](https://img.shields.io/badge/Book_Session-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white)](https://topmate.io/padmesh_sharma)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PadmeshSharma18)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/padmeshsharmaa)
+[![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/padmeshsharma)
 
 ---
 
 <div align="center">
   <h3>Show some ❤️ by starring my repositories!</h3>
 </div>
+ ### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://linktr.ee/padmeshsharma"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{padmeshsharma}/count.svg)
