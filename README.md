@@ -41,7 +41,6 @@
 - Conduct mock interviews with actionable feedback
 - 📅 [Book an appointment](https://topmate.io/padmesh_sharma)
 
----
 
 ## 🏆 Leadership & Community
 
@@ -58,7 +57,7 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
 
 ### **OSCode - Banasthali Vidyapith Chapter** - Technical Lead  
 - Organized coding events, hackathons & open-source drives
----
+
 
 ## 🏅 Achievements
 
@@ -69,7 +68,6 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
 - **Finalist**: Smart-O-Hack Smart Cities Hackathon
 - **1st Position & College Topper**: Monthly College Leaderboard by CodeStudio
 
----
 
 ## 🛠 Technical Skills
 
@@ -93,7 +91,6 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
@@ -105,7 +102,6 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PadmeshSharma&theme=radical" alt="GitHub Streak"/>
 </div>
----
 
 
 <h2 align='center'><i><a href="https://github.com/PadmeshSharma/github-readme-activity-graph">Activity Graph 📈</i></h2>
@@ -117,7 +113,7 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PadmeshSharma&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
----
+
 
 ## 📫 Let's Connect
 
@@ -128,7 +124,6 @@ Organized 25+ technical/non-technical events in National TechFest Mayukh
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/padmeshsharmaa)
 [![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/padmeshsharma)
 
----
 
 <div align="center">
   <h3>Show some ❤️ by starring my repositories!</h3>
