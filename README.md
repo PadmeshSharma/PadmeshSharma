@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+<img align="right" alt="Padmesh working" width="300" src=" https://github.com/PadmeshSharma/PadmeshSharma/blob/7c5e6e5ede7b27ce4c126c54af6d7696dfb3ee1b/Photo.png">
 
 ## 🚀 About Me
 
