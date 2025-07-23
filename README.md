@@ -1,9 +1,9 @@
 <h1 align="center">Hey Everyone 🙋🏻‍♀️, I'm Padmesh Sharma</h1>
-<h3 align="center">Software Engineer | Ex-Amazon & BNY Mellon Intern | Goldman Sachs WPS'24 Finalist</h3>
+<h3 align="center">SDE-1@Amazon | Ex-Amazon & BNY Mellon Intern | Goldman Sachs WPS'24 Finalist</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=30&pause=1000&color=CB6BF7&width=600&lines=Passionate+Coder;Open+Source+Contributor;Public+Speaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=30&pause=1000&color=CB6BF7&width=600&lines=Software+Dev+Engineer+@Amazon" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +16,8 @@
 
 ## 🚀 About Me
 
+💼 **SDE-1 at Amazon** | Former **SDE Intern** at Amazon & BNY Mellon  
 🎓 B.Tech in Computer Science from **Banasthali Vidyapith** (2021-2025)  
-💼 Former **SDE Intern** at Amazon & BNY Mellon  
 🌟 **Top 50 National Finalist** - Goldman Sachs Women's Possibilities Summit 2023-24  
 👩‍💻 **SheCodes Foundation Scholar** (Web Development)  
 📌 Mathura, Uttar Pradesh, India  
@@ -25,6 +25,8 @@
 ## 💼 Professional Experience
 
 <img align="right" alt="Padmesh working" width="300" src="https://raw.githubusercontent.com/PadmeshSharma/PadmeshSharma/main/Photo.png">
+
+### **Amazon** - SDE-1 (Jul 2025 - Present)
 
 ### **Amazon** - SDE Intern (Jul-Dec 2024)
 - Automated Amazon Hub delivery configuration management
